@@ -1,3 +1,5 @@
+
+// Library für WiFi-Verbindung
 #include <ESP8266WiFi.h>
 #include <NTPClient.h>
 #include <WiFiUdp.h>
@@ -89,9 +91,11 @@ String WebCity;
 
 
 //-----------------------------Wlan Setaup---------------------------------
+// Daten des WiFi-Netzwerks
 const char* ssid="e400";
 const char* password="password";
 WiFiClient client;
+// Port des Web Servers auf 80 setzen
 WiFiServer server(80);
 //-----------------------------Wlan Setaup-end-----------------------------
 
