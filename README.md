@@ -1,7 +1,9 @@
-# ESP8266 Temperatursensor with OLED Display and webserver html/css
+# ESP8266 wetterstation with OLED Display and webserver html/css
 
 
 ## Hardware Required
+
+ESP8266 wetterstation with OLED Display and webserver html css (using openweathermap)
 
 1 x ESP8266 \
 1 x USB 2.0 cable type A/B \
