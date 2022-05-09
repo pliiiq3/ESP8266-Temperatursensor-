@@ -10,6 +10,6 @@
 4 * Jumper Wires
 
 
-<img src="https://github.com/pliiiq3/ESP8266-Temperatursensor-with-OLED-Display-and-webserver-html-css/blob/main/images/img1.jpg" width="200" height="300" />
+<img src="https://github.com/pliiiq3/ESP8266-Temperatursensor-with-OLED-Display-and-webserver-html-css/blob/main/images/img2.jpg" width="200" height="300" />
 
 
